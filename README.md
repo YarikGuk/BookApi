@@ -2,13 +2,13 @@
 
 ## Установка и запуск
 
-1. Клонируйте репозиторий:
+1. Клонирование репозитория:
     ```sh
     git clone https://github.com/YarikGuk/BookApi.git
     cd LibraryProject
     ```
 
-2. Соберите и запустите контейнеры:
+2. Сборка и запуск:
     ```sh
     make build
     make run
