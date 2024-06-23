@@ -52,6 +52,6 @@ curl -X DELETE http://localhost:8080/books/1
 
 ----------------------------
 
-# Обновить одновременно название книги и биографию автора
+### Обновить одновременно название книги и биографию автора
 
 curl -X PUT -H "Content-Type: application/json" -d '{  "book_title": "Абсолютно новое название книги", "author_bio": "Обновленная биография автора" }' http://localhost:8080/books/1/authors/1
