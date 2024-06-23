@@ -1,4 +1,4 @@
-# Library API
+# Book API
 
 ## Установка и запуск
 
